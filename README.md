@@ -1,8 +1,6 @@
 # Udacity Front End Development Nonodegree
 
-# FEND-Capstone-Travel-App
-
-## Live Url- https://capstone-travel-by-manpreet.netlify.app/
+# Nanodegree-Capstone-Travel-App
 
 ## Rules: project rubic (https://review.udacity.com/#!/rubrics/2669/view)
 
